@@ -6,3 +6,5 @@ public class VarEx2 {
         System.out.println("x:"+x);
     }
 }
+
+
